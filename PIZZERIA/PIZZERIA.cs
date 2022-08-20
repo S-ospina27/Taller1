@@ -18,3 +18,5 @@ if(validar == true){
     ingrediente = seleccion_ingrediente == 1 ? "Pepperoni" : (seleccion_ingrediente == 2 ? "Salami" : "Pollo");
     Console.Write("Pizza: Mozzarella, Tomate y " + ingrediente);
 }
+
+//FIN BLOQUE 
