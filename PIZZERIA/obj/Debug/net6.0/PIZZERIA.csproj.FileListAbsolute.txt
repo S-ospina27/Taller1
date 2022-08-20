@@ -1,0 +1,15 @@
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\bin\Debug\net6.0\PIZZERIA.exe
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\bin\Debug\net6.0\PIZZERIA.deps.json
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\bin\Debug\net6.0\PIZZERIA.runtimeconfig.json
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\bin\Debug\net6.0\PIZZERIA.dll
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\bin\Debug\net6.0\PIZZERIA.pdb
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.csproj.AssemblyReference.cache
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.AssemblyInfoInputs.cache
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.AssemblyInfo.cs
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.csproj.CoreCompileInputs.cache
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.dll
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\refint\PIZZERIA.dll
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.pdb
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\PIZZERIA.genruntimeconfig.cache
+C:\Users\santiago2730\Desktop\amor\PIZZERIA\obj\Debug\net6.0\ref\PIZZERIA.dll

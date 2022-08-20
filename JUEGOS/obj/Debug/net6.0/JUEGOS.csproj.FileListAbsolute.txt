@@ -1,0 +1,15 @@
+C:\Users\santiago2730\Desktop\amor\JUEGOS\bin\Debug\net6.0\JUEGOS.exe
+C:\Users\santiago2730\Desktop\amor\JUEGOS\bin\Debug\net6.0\JUEGOS.deps.json
+C:\Users\santiago2730\Desktop\amor\JUEGOS\bin\Debug\net6.0\JUEGOS.runtimeconfig.json
+C:\Users\santiago2730\Desktop\amor\JUEGOS\bin\Debug\net6.0\JUEGOS.dll
+C:\Users\santiago2730\Desktop\amor\JUEGOS\bin\Debug\net6.0\JUEGOS.pdb
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.csproj.AssemblyReference.cache
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.AssemblyInfoInputs.cache
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.AssemblyInfo.cs
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.csproj.CoreCompileInputs.cache
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.dll
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\refint\JUEGOS.dll
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.pdb
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\JUEGOS.genruntimeconfig.cache
+C:\Users\santiago2730\Desktop\amor\JUEGOS\obj\Debug\net6.0\ref\JUEGOS.dll
