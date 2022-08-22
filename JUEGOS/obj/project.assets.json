@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santiago2730\\Desktop\\amor\\JUEGOS\\JUEGOS.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\TALLER#1\\JUEGOS\\JUEGOS.csproj",
       "projectName": "JUEGOS",
-      "projectPath": "C:\\Users\\santiago2730\\Desktop\\amor\\JUEGOS\\JUEGOS.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\TALLER#1\\JUEGOS\\JUEGOS.csproj",
       "packagesPath": "C:\\Users\\santiago2730\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santiago2730\\Desktop\\amor\\JUEGOS\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\TALLER#1\\JUEGOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santiago2730\\AppData\\Roaming\\NuGet\\NuGet.Config"

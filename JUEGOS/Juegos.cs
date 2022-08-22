@@ -14,6 +14,6 @@ if(Edad >=4 && Edad<=18){
 }
 
 if( Edad>18){
-  Console.Write("el niño de nombre:" +Nombre+"\n ya que es mayor de 18 Años la entrada le cuesta:"+(15000*0.98)+"$");
+  Console.Write("el niño de nombre:" +Nombre+"\n ya que es mayor de 18 Años la entrada le cuesta:"+(15000*0.97)+"$");
 }
 

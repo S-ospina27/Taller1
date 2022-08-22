@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santiago2730\\Desktop\\amor\\PIZZERIA\\PIZZERIA.csproj": {}
+    "C:\\xampp\\htdocs\\TALLER#1\\PIZZERIA\\PIZZERIA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santiago2730\\Desktop\\amor\\PIZZERIA\\PIZZERIA.csproj": {
+    "C:\\xampp\\htdocs\\TALLER#1\\PIZZERIA\\PIZZERIA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santiago2730\\Desktop\\amor\\PIZZERIA\\PIZZERIA.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\TALLER#1\\PIZZERIA\\PIZZERIA.csproj",
         "projectName": "PIZZERIA",
-        "projectPath": "C:\\Users\\santiago2730\\Desktop\\amor\\PIZZERIA\\PIZZERIA.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\TALLER#1\\PIZZERIA\\PIZZERIA.csproj",
         "packagesPath": "C:\\Users\\santiago2730\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santiago2730\\Desktop\\amor\\PIZZERIA\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\TALLER#1\\PIZZERIA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santiago2730\\AppData\\Roaming\\NuGet\\NuGet.Config"

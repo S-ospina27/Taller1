@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santiago2730\\Desktop\\amor\\RENTA\\c.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\TALLER#1\\RENTA\\c.csproj",
       "projectName": "c",
-      "projectPath": "C:\\Users\\santiago2730\\Desktop\\amor\\RENTA\\c.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\TALLER#1\\RENTA\\c.csproj",
       "packagesPath": "C:\\Users\\santiago2730\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\santiago2730\\Desktop\\amor\\RENTA\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\TALLER#1\\RENTA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santiago2730\\AppData\\Roaming\\NuGet\\NuGet.Config"
